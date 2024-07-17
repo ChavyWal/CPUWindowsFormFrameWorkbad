@@ -1,0 +1,15 @@
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\bin\Debug\net8.0-windows\CPUWindowsFormFrameWork.exe
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\bin\Debug\net8.0-windows\CPUWindowsFormFrameWork.deps.json
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\bin\Debug\net8.0-windows\CPUWindowsFormFrameWork.runtimeconfig.json
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\bin\Debug\net8.0-windows\CPUWindowsFormFrameWork.dll
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\bin\Debug\net8.0-windows\CPUWindowsFormFrameWork.pdb
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.AssemblyInfoInputs.cache
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.AssemblyInfo.cs
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.dll
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\refint\CPUWindowsFormFrameWork.dll
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.pdb
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.genruntimeconfig.cache
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\ref\CPUWindowsFormFrameWork.dll
+C:\Users\wchav\repos\CPUWindowsFormFrameWork\obj\Debug\net8.0-windows\CPUWindowsFormFrameWork.sourcelink.json
